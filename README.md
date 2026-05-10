@@ -56,7 +56,7 @@ and http://www.google.fr/ or <http://example.com/>
 |------------|------------|
 | heyuxuan   | 20242213   |
 | Fu Jiasen  | 20242216|
-| 朋友2的名字| 朋友2的学号|
+| wanfangshuo| 20242227|
 ---
 
 ## Code
