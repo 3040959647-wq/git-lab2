@@ -52,11 +52,11 @@ and http://www.google.fr/ or <http://example.com/>
 ---
 
 ## Tables
-First Header | Second Header
-------------- | -------------
-Content Cell | Content Cell
-Content Cell | Content Cell
-
+| Name       | Student ID |
+|------------|------------|
+| heyuxuan   | 20242213   |
+| 朋友1的名字| 朋友1的学号|
+| 朋友2的名字| 朋友2的学号|
 ---
 
 ## Code
